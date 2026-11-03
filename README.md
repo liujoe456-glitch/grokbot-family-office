@@ -4,7 +4,7 @@
 
 ## 中文
 
-**一个人用 Grok Bot 搭的私人助理团队：秘书、财务、法律、健康、英语、自媒体等 15 个机器人的提示词和定时任务模板，拿来改改就能用。**
+**一个人用 Grok Bot 搭的私人助理团队：秘书、财务、法律、健康、英语、自媒体等 14 个机器人的提示词和定时任务模板，拿来改改就能用。**
 
 每个文件都是中英双语，所有个人信息和国家特定内容都已换成 `{{占位符}}`，任何国家都能套用。
 
@@ -19,7 +19,6 @@
 | [家庭健康助理](05-family-health.md) | 记录就诊用药、提醒复查、解释化验单 |
 | [英语私教](06-english-tutor.md) | 每天 30 分钟口语课 |
 | [翻译官](07-translator.md) | 双向同声翻译，只出译文 |
-| [自动化工程师](08-automation.md) | 自动化脚本、加密货币模拟盘 |
 | [期权顾问](09-options.md) | 看跌期权框架，先算最大亏损 |
 | [马斯克视角](10-musk.md) | 第一性原理顾问 |
 | [纳瓦尔视角](11-naval.md) | 财富、杠杆、幸福顾问 |
@@ -74,7 +73,7 @@
 
 ## English
 
-**A one-person personal assistant team built with Grok Bot: prompts and routine templates for 15 bots — secretary, finance, legal, health, English tutor, content team and more. Copy, tweak, and go.**
+**A one-person personal assistant team built with Grok Bot: prompts and routine templates for 14 bots — secretary, finance, legal, health, English tutor, content team and more. Copy, tweak, and go.**
 
 Every file is bilingual (Chinese first, then English). All personal details and country-specific content are replaced with `{{placeholders}}`, so it works in any country.
 
@@ -89,7 +88,6 @@ Every file is bilingual (Chinese first, then English). All personal details and 
 | [Family Health](05-family-health.md) | Tracks visits and medications, reminds about check-ups, explains test results |
 | [English Tutor](06-english-tutor.md) | 30-minute daily speaking lessons |
 | [Translator](07-translator.md) | Two-way simultaneous interpreting, translation only |
-| [Automation Engineer](08-automation.md) | Automation scripts, crypto paper trading |
 | [Options Advisor](09-options.md) | Put options framework, max loss first |
 | [Musk Perspective](10-musk.md) | First-principles advisor |
 | [Naval Perspective](11-naval.md) | Wealth, leverage, and happiness advisor |
